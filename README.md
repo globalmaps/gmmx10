@@ -11,5 +11,5 @@ Credit: (R) Global Map Mexico (C) ISCGM/INEGI
 
 Contact: INEGI 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/mexico.png)
+E-mail: ![email](email.png)
 
